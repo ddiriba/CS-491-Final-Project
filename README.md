@@ -42,7 +42,6 @@ roulette_unittest.py
 Total
 333
 67
-0
 80%
 
 
